@@ -9,7 +9,7 @@ definition(
     namespace: "schwark",
     author: "Schwark Satyavolu",
     description: "Allows you to connect your Alarm.com alarm system with SmartThings and control them from your Things area or Dashboard in the SmartThings Mobile app.",
-    category: "SmartThings Labs",
+    category: "My Apps",
     iconUrl: "https://images-na.ssl-images-amazon.com/images/I/71yQ11GAAiL.png",
     iconX2Url: "https://images-na.ssl-images-amazon.com/images/I/71yQ11GAAiL.png",
     singleInstance: true
